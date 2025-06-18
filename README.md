@@ -18,8 +18,7 @@ E-Waste-Classification-Project/
 │   ├── 📁 images/                       ← Stores uploaded or webcam-captured images
 │   └── predictions.csv                 ← Prediction history with image name, class, cost, recommendations
 │
-├── 📁 templates/
-│   └── dashboard.html                  ← HTML UI dashboard preview for history and notebook access
+            ← HTML UI dashboard preview for history and notebook access
 │
 ├── 📄 E-Waste Generation Classification.ipynb  ← ✅ MAIN NOTEBOOK:
 │   ├── 1. Project Setup and Imports
@@ -32,8 +31,7 @@ E-Waste-Classification-Project/
 │   ├── 8. Cost Estimator & Recommendations Integration
 │   ├── 9. Gradio UI (Upload + Webcam)
 │   ├── 10. Prediction History Logging
-│   ├── 11. HTML Dashboard Preview
-│   └── 12. Final Output and Summary
+│   
 │
 ├── 📄 webcam_predict.py                ← Standalone webcam prediction script using trained model
 ├── 📄 upload_predict.py                ← Standalone image upload prediction script
